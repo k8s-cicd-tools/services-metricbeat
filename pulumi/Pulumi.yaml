@@ -1,0 +1,4 @@
+name: services-metricbeat
+runtime: nodejs
+description: is a lightweight agent that can be installed on target servers to periodically
+  collect metric data.
